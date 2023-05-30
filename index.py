@@ -23,3 +23,5 @@ if valorfinal is not None:
     print(f"{valor} {moeda_1} é igual à {valorfinal} {moeda_2}")
 else:
     print("Esta moeda não existe!")
+
+input("Pressione enter para sair!")
